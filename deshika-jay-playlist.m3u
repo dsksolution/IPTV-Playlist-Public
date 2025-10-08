@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rupavahini" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/rupavahini.png",Rupavahini
+#EXTINF:-1 tvg-id="Rupavahini" group-title="Local" tvg-logo="https://github.com/dsksolution/IPTV-Playlist-Public/blob/main/rupavahini.png?raw=true",Rupavahini
 https://moblive.yuppcdn.net/transsd/smil:runi01.smil/chunklist_b596000.m3u8
 #EXTINF:-1 tvg-id="ITN" group-title="Local" tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/280/content/common/channel/logos/ducchq.png",ITN
 https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/chunklist_w611279633_b596000.m3u8
@@ -35,4 +35,5 @@ https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/chunklist_b596000.
 https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 tvg-id="The Buddist" group-title="Religious" tvg-logo="https://tv.deshikajayantha.com/images/supmetv.png",The Buddist
 https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/chunklist_b996000.m3u8
+
 
