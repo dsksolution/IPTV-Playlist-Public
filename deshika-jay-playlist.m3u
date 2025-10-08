@@ -35,6 +35,9 @@ https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/chunklist_b596000.
 https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 tvg-id="The Buddist" group-title="Religious" tvg-logo="https://github.com/dsksolution/IPTV-Playlist-Public/blob/main/image-removebg-preview%20(6).png?raw=true",The Buddist
 https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/chunklist_b996000.m3u8
+#EXTINF:-1 tvg-id="Sony Ten 5" group-title="Sport" tvg-logo="",Sony Ten 5
+http://103.175.242.10:8080/sonyten5/index.m3u8
+
 
 
 
